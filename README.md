@@ -1,6 +1,6 @@
 # <h1 align="center"> Hello Word :rocket::rocket: :rocket:  </h1>
-###### <h1 align="center">Aqui :arrow_down: está um pouco da minha história como dev web... </h1>
-
+###### <h2 align="center">Aqui :arrow_down: está um pouco da minha história como dev... </h2>
+#### <h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
 
 - :smile: Tenho 56 anos.
 - :house_with_garden: Moro em São Vicente SP - Brasil
