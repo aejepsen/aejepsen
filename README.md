@@ -6,13 +6,19 @@
 - :star: Meu curriculo está em : <https://aejepsen.w3spaces.com>
 - :star: Meus principais projetos estão em : <https://github.com/aejepsen?tab=repositories>
 
+
+            :footprints:
+:footprints:
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 👋 
+:point_down:
 :hearts:
 - :star:
+:footprints:
+:arrow_down:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
