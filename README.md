@@ -1,11 +1,13 @@
-### Olá 👋 !
-####    Aqui está um pouco da minha história como desenvovedor web...:hearts:
-:house::house_with_garden::octocat::phone::rocket::smile::star:
+### Olá !
+####   :rocket: Aqui está um pouco da minha história como desenvovedor web... 
+
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋 
+:hearts:
+- :star:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:house::house_with_garden::octocat::phone::rocket::smile::star:
 -->
