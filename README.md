@@ -4,11 +4,11 @@
 <h3 align="center">Amo tecnologia e acredito que podemos fazer nosso mundo um local muito melhor.</h3>
 <h3 align="center">Tenho como sonho trabalhar em uma equipe motivada, inclusiva, criativa, honesta, desafiadora, colaborativa, disposta a correr risco, tolerante a erros, motivada, focada em resultado, ágil ...</h3>
 
-- :smile: Tenho 56 anos.
-- :house_with_garden: Moro em São Vicente SP - Brasil
-- :star: Meu [Curriculo](https://aejepsen.w3spaces.com)
-- :star: Meu [Portifólio](https://github.com/aejepsen?tab=repositories)
-- :rocket:  Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.
+- <h3 align="center">:smile: Tenho 56 anos.</h3>
+- :house_with_garden: Moro em São Vicente SP - Brasil<h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
+- :star: Meu [Curriculo](https://aejepsen.w3spaces.com)<h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
+- :star: Meu [Portifólio](https://github.com/aejepsen?tab=repositories)<h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
+- :rocket:  Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.<h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
