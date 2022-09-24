@@ -5,7 +5,7 @@
 - :smile: Tenho 56 anos.
 - :house_with_garden: Moro em São Vicente SP - Brasil
 - :star: Meu [Curriculo](https://aejepsen.w3spaces.com)
-- :star: Meus principais projetos estão em : [Portifólio](https://github.com/aejepsen?tab=repositories)
+- :star: Meu [Portifólio](https://github.com/aejepsen?tab=repositories)
 - :star: Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
