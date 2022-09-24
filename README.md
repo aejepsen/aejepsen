@@ -1,6 +1,6 @@
 ### Olá 👋 !
 ####    Aqui está um pouco da minha história como desenvovedor web...:hearts:
-:house:
+:house::house_with_garden:
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
