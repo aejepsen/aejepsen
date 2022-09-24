@@ -1,4 +1,4 @@
-# <h1 align="center"> :rocket: Hello Word !!! :rocket: </h1>
+# <h1 align="center"> Hello Word :rocket::rocket: :rocket:  </h1>
 ###### <h1 align="center">Aqui :arrow_down: está um pouco da minha história como dev web... </h1>
 
 
