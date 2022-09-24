@@ -6,7 +6,7 @@
 
 <h3 align="center">:smile: Tenho 56 anos.</h3>
 <h3 align="center">:house_with_garden: Moro em São Vicente SP - Brasil</h3>
-<h3 align="center">:star: Meu <a href:https://aejepsen.w3spaces.com>Curriculo<a></h3>
+<h3 align="center">:star: Meu <a href:https://aejepsen.w3spaces.com>Curriculo</a></h3>
 <h3 align="center">:star: Meu [Portifólio](https://github.com/aejepsen?tab=repositories)</h3>
 <h3 align="center">:rocket:  Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.</h3>
 <!--
