@@ -6,7 +6,7 @@
 - :house_with_garden: Moro em São Vicente SP - Brasil
 - :star: Meu [[Curriculo](https://aejepsen.w3spaces.com)]
 - :star: Meus principais projetos estão em : [[Portifólio](https://github.com/aejepsen?tab=repositories)]
-- :star: Stack'a : React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Express, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django.
+- :star: Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
