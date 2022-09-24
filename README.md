@@ -1,5 +1,5 @@
 ### <h1 align="center"> Olá ! </h1>
-####   :rocket: Aqui está um pouco da minha história como desenvovedor web... 
+####   <h1 align="center">:rocket: Aqui está um pouco da minha história como desenvovedor web... </h1>
 
 - :smile: Tenho 56 anos.
 - :house_with_garden: Moro em São Vicente SP - Brasil
