@@ -4,7 +4,7 @@
 
 - :smile: Tenho 56 anos.
 - :house_with_garden: Moro em São Vicente SP - Brasil
-- :star: Meu curriculo está em : [[Curriculo](https://aejepsen.w3spaces.com)]
+- :star: Meu [[Curriculo](https://aejepsen.w3spaces.com)]
 - :star: Meus principais projetos estão em : [[Portifólio](https://github.com/aejepsen?tab=repositories)]
 
 <!--
