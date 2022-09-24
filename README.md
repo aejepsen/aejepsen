@@ -3,7 +3,7 @@
 
 - :smile: Tenho 56 anos.
 - :house_with_garden: Moro em São Vicente SP - Brasil
-- :star::star::star: Meus projetos estão em [Portifolio] <https://aejepsen.w3spaces.com>
+- :star::star::star: Meu curriculo está em : <https://aejepsen.w3spaces.com>
 
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
