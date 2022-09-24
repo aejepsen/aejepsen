@@ -1,9 +1,9 @@
 ### Olá !
 ####   :rocket: Aqui está um pouco da minha história como desenvovedor web... 
 
-- :smile:  Tenho 56 anos.
-- :house_with_garden: Moro em São Vicente SP - Brasil
-- :star::star::star: Meus projetos estão em Portifolio
+-:smile: - Tenho 56 anos.
+-:house_with_garden: Moro em São Vicente SP - Brasil
+-:star::star::star: Meus projetos estão em Portifolio
 
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
