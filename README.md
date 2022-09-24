@@ -1,5 +1,5 @@
 # <h1 align="center"> Hello Word ! </h1>
-###### <h1 align="center">:rocket: Aqui está um pouco da minha história como desenvovedor web... </h1>
+###### <h1 align="center">:rocket: Aqui :point_down: está um pouco da minha história como dev web... </h1>
 
 
 - :smile: Tenho 56 anos.
