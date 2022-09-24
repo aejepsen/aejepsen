@@ -10,7 +10,6 @@
 <h3 align="center">:star: <a href=https://github.com/aejepsen?tab=repositories>Portifólio</a></h3>
 <h3 align="center">:star: <a href=https://www.linkedin.com/in/allan-eric-jepsen>Linkedin</a></h3>
 <h3 align="center">:rocket:  Principais stack's:  React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize, JWT, Cors, Chai, Jest, Fetch, Python, CSS, HTML, Django, Joi.</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aejepsen)](https://github.com/aejepsen/github-readme-stats)
 <!--
 **aejepsen/aejepsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
