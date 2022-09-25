@@ -3,7 +3,7 @@
 #### <h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
 <h3 align="center">Amo tecnologia e acredito que podemos fazer nosso mundo um local muito melhor.</h3>
 <h3 align="center">Tenho como sonho trabalhar em uma equipe motivada, inclusiva, criativa, honesta, desafiadora, colaborativa, disposta a correr risco, tolerante a erros, motivada, focada em resultado, ágil ...</h3>
-<h3 align="center">Amar ao próximo como a si mesmo. Desejar ao próximo aquilo que desejaria para si mesmo</h3>
+<h3 align="center">Amar ao próximo como a si mesmo. Jesus</h3>
 
 <h3 align="center">:smile: Tenho 56 anos.</h3>
 <h3 align="center">:house_with_garden: Moro em São Vicente SP - Brasil</h3>
