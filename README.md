@@ -2,6 +2,7 @@
 ###### <h2 align="center">Aqui :arrow_down: está um pouco da minha história como dev... </h2>
 #### <h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
 <h3 align="center">Amo tecnologia e acredito que podemos fazer nosso mundo um local muito melhor.</h3>
+<h3 align="center">Trabalho na Capgemini atualmente.</h3>
 <h3 align="center">Tenho como sonho trabalhar em uma equipe motivada, inclusiva, criativa, honesta, desafiadora, colaborativa, disposta a correr risco, tolerante a erros, focada em resultado, ágil ...</h3>
 <h3 align="center">Disse Jesus: 'E como vós quereis que os homens vos façam, da mesma maneira lhes fazeis vós, também' Lc 6:31. Regra de ouro para uma ótima convivência </h3>
 
