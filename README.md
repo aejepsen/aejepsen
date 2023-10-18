@@ -6,7 +6,7 @@
 <h3 align="center">Trabalho em uma equipe motivada, inclusiva, criativa, honesta, desafiadora, colaborativa, disposta a correr risco, tolerante a erros, focada em resultado, ágil ...</h3>
 <h3 align="center">Disse Jesus: 'E como vós quereis que os homens vos façam, da mesma maneira lhes fazeis vós, também' Lc 6:31. Regra de ouro para uma ótima convivência </h3>
 
-<h3 align="center">:smile: Sou 40dev+</h3>
+<h3 align="center">:smile: Sou 50dev+</h3>
 <h3 align="center">:house_with_garden: Moro no litoral paulista - Brasil</h3>
 <h3 align="center">:star: <a href=https://aejepsen.w3spaces.com>Curriculo</a></h3>
 <h3 align="center">:star: <a href=https://github.com/aejepsen?tab=repositories>Portifólio</a></h3>
