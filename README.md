@@ -1,5 +1,6 @@
 # <h1 align="center"> Hello World :rocket::rocket: :rocket:  </h1>
 ###### <h2 align="center">Aqui :arrow_down: está um pouco da minha história como dev... </h2>
+<h3 align="center">Sou mineiro e gosto de uma boa conversa.</h3>
 #### <h3 align="center">Sou desenvolvedor web fullstack júnior</h3>
 <h3 align="center">Amo tecnologia e acredito que podemos fazer nosso mundo um local muito melhor.</h3>
 <h3 align="center">Trabalho na Capgemini atualmente.</h3>
