@@ -7,6 +7,21 @@
 </h3>
 
 <p align="center">
+  <a href="https://aejepsen.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Pessoal-0e1018?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/allan-ericjepsen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@aejepsen" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aejepsen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C8&center=true&vCenter=true&width=600&lines=Construindo+agentes+de+IA+com+LangGraph+%26+Claude+API;Data+Engineer+%7C+Apache+Spark+%7C+Neo4j+%7C+Airflow;MBA+Data+Science+%26+Analytics+%E2%80%94+USP%2FEsalq;AWS+Architect+Associate+%7C+Azure+Data+Scientist;50dev%2B+%F0%9F%9A%80+Litoral+Paulista+%E2%80%94+Brasil" alt="Typing SVG" />
 </p>
 
@@ -132,14 +147,11 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/allan-ericjepsen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Allan_Eric_Jepsen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:aejepsen@yahoo.com.br">
     <img src="https://img.shields.io/badge/Email-aejepsen@yahoo.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/aejepsen?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repositórios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -149,4 +161,4 @@
   <img src="https://komarev.com/ghpvc/?username=aejepsen&color=00e5c8&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
-<p align="center"><i>"E como vós quereis que os homens vos façam, da mesma maneira lhes fazeis vós também." — Lc 6:31</i></p>
+<p align="center"><i>"E como vós quereis que os homens vos façam, da mesma maneira lhe
