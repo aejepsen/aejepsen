@@ -150,4 +150,4 @@
   <img src="https://komarev.com/ghpvc/?username=aejepsen&color=00e5c8&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
-<p align="center"><i>"E como vós quereis qu
+<p align="center"><i>"E como vós quereis que os homens vos façam, da mesma maneira lhes fazeis vós também"* — Lc 6:31
