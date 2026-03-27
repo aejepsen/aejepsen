@@ -120,17 +120,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aejepsen&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aejepsen&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aejepsen&theme=gotham&hide_border=true" />
-</p>
-
 ---
 
 ## 🎓 Formação
@@ -147,7 +136,7 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:aejepsen@yahoo.com.br">
+  <a href="/cdn-cgi/l/email-protection#80e1e5eae5f0f3e5eec0f9e1e8efefaee3efedaee2f2">
     <img src="https://img.shields.io/badge/Email-aejepsen@yahoo.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/aejepsen?tab=repositories" target="_blank">
@@ -161,4 +150,4 @@
   <img src="https://komarev.com/ghpvc/?username=aejepsen&color=00e5c8&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
-<p align="center"><i>"E como vós quereis que os homens vos façam, da mesma maneira lhe
+<p align="center"><i>"E como vós quereis qu
